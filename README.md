@@ -1,12 +1,14 @@
 # Python RPG Game
 
+# WIP
+
 ## Description
 
 This is a simple RPG game built using Python and Pygame. Players can explore a 2D world, interact with NPCs, battle
 enemies,
 and improve their stats as they progress. The game is designed to be modular and easily customizable.
 
-## Features
+## Future Features
 
 - 2D game world built with Pygame
 - Real-time movement and interactions
@@ -14,6 +16,10 @@ and improve their stats as they progress. The game is designed to be modular and
 - Combat system with health and stats
 - Inventory and item management
 - Level progression and stat upgrades
+
+## Feature
+
+- Dynamic Items [Demo](https://youtu.be/3_viF7M8g-4)
 
 ## Requirements
 
